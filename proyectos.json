@@ -1,0 +1,10 @@
+{
+    "FSP-Predios": {
+        "cliente": "Farmacias San Pablo",
+        "alcance": [
+            "Servicio integral de instalación, configuración y puesta en marcha de sistema de videovigilancia autónoma. Incluye montaje y orientación de kits solares, integración de conectividad 4G LTE, configuración de parámetros de video y alertas, así como pruebas de campo para asegurar la autonomía energética y la transmisión remota estable. Se contempla el servicio de mantenimiento preventivo para garantizar la operatividad continua durante la vigencia del contrato."
+        ],
+        "descripcion_breve": "Instalación de cámaras autosustentables en inmuebles no ocupados",
+        "condiciones_comerciales": []
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "XGA-POLE-3M": {
+        "marca": "SYSCOM",
+        "unidad_medida": "Pieza",
+        "costo_unitario": NaN,
+        "descripcion": "Poste Seccionado de 3 Metros / Especializado para la Instalación de Videovigilancia / Incluye Base de Cimentación y Brazo para Cámara PTZ / Color Negro. Modelo: XGA-POLE-3M",
+        "descripcion_reporte": "Poste Seccionado de 3 Metros / Especializado para la Instalación de Videovigilancia / Incluye Base de Cimentación y Brazo para Cámara PTZ / Color Negro. Modelo: XGA-POLE-3M",
+        "caracteristicas": [
+            "nan"
+        ]
+    },
+    "Concreto_Poste": {
+        "marca": "CEMEX",
+        "unidad_medida": "Lote",
+        "costo_unitario": NaN,
+        "descripcion": "CONCRETO SECO PREMEZCLADO CEMEX 25 KG. Modelo: 131122",
+        "descripcion_reporte": "CONCRETO SECO PREMEZCLADO CEMEX 25 KG. Modelo: 131123",
+        "caracteristicas": [
+            "nan"
+        ]
+    },
+    "DS-2DE2C400IWG-K/4G/C05S10/LA": {
+        "marca": "Hikvision",
+        "unidad_medida": "Pieza",
+        "costo_unitario": 3970.9448999999995,
+        "descripcion": "Kit Solar IP All in One / Doble Detección (Radar + PIR) / PT IP 4 Megapixel / Lente 2.8 mm / Panel Solar / Batería de Respaldo de Litio 50.76Wh (Hasta 1.5 días) / Conexión 4G / Audio de Dos Vías / Accesorios de Inst. / D. Modelo: DS-2DE2C400IWG-K/4G/C05S10/LA",
+        "descripcion_reporte": "Kit Solar IP All in One / Doble Detección (Radar + PIR) / PT IP 4 Megapixel / Lente 2.8 mm / Panel Solar / Batería de Respaldo de Litio 50.76Wh (Hasta 1.5 días) / Conexión 4G / Audio de Dos Vías / Accesorios de Inst. / D. Modelo: DS-2DE2C400IWG-K/4G/C05S10/LA",
+        "caracteristicas": [
+            "nan"
+        ]
+    },
+    "WD256MSD": {
+        "marca": "Western Digital",
+        "unidad_medida": "Pieza",
+        "costo_unitario": 770.9363999999999,
+        "descripcion": "Memoria microSD de 256 GB PURPLE, Especializada Para Videovigilancia, 10 VECES MAYOR DURACIÓN, 3 AÑOS DE GARANTIA. Modelo: WD256MSD",
+        "descripcion_reporte": "Memoria microSD de 256 GB PURPLE, Especializada Para Videovigilancia, 10 VECES MAYOR DURACIÓN, 3 AÑOS DE GARANTIA. Modelo: WD256MSD",
+        "caracteristicas": [
+            "nan"
+        ]
+    },
+    "DS-1275ZJ-S-SUS": {
+        "marca": "Hikvision",
+        "unidad_medida": "Pieza",
+        "costo_unitario": NaN,
+        "descripcion": "Montaje de Poste para Cámaras DS-2CD26 / DS-2CD3656G2T-IZS(C) / Acero Inoxidable. Modelo: DS-1275ZJ-S-SUS",
+        "descripcion_reporte": "Montaje de Poste para Cámaras DS-2CD26 / DS-2CD3656G2T-IZS(C) / Acero Inoxidable. Modelo: DS-1275ZJ-S-SUS",
+        "caracteristicas": [
+            "nan"
+        ]
+    },
+    "S-Clo": {
+        "marca": "TRED",
+        "unidad_medida": "Servicio",
+        "costo_unitario": 73.71,
+        "descripcion": "Servicio de Cloud Tred (Almacenamiento Redundante)",
+        "descripcion_reporte": "Servicio de Cloud Tred (Almacenamiento Redundante)",
+        "caracteristicas": [
+            "nan"
+        ]
+    },
+    "ZACT0090MX": {
+        "marca": "Lenovo",
+        "unidad_medida": "Pieza",
+        "costo_unitario": 532.2681,
+        "descripcion": "LENOVO IDEA TABLET M10 5G CON PLUMA / TB360ZU / QUALCOMM SNAPDRAGON695 2.2GHZ / 6GB / 128GB / 10.61 2K (2000X1200) / 5G LTE / ABYSS BLUE / ANDROID13 / 1YR CENTRO DE SERVICIO. Modelo: ZACT0090MX",
+        "descripcion_reporte": "LENOVO IDEA TABLET M10 5G CON PLUMA / TB360ZU / QUALCOMM SNAPDRAGON695 2.2GHZ / 6GB / 128GB / 10.61 2K (2000X1200) / 5G LTE / ABYSS BLUE / ANDROID13 / 1YR CENTRO DE SERVICIO. Modelo: ZACT0090MX",
+        "caracteristicas": [
+            "nan"
+        ]
+    },
+    "SIM (2 años) Telcel": {
+        "marca": "Telcel",
+        "unidad_medida": "Servicio",
+        "costo_unitario": 2420.6832,
+        "descripcion": "SIM (2 años) Telcel",
+        "descripcion_reporte": "SIM (2 años) Telcel",
+        "caracteristicas": [
+            "nan"
+        ]
+    },
+    "S-Ins-FSP": {
+        "marca": "TRED",
+        "unidad_medida": "Servicio",
+        "costo_unitario": 7449.57,
+        "descripcion": "Servicio de Instalación, puesta en marcha y configuración de 2 camaras autosustentables con su respecitva infraestructura. (Incluye los dados para soporte de postes, obra civil, armado e isntalación del oste, montaje de camaras y configuración con la analitica de movimiento solicitada).",
+        "descripcion_reporte": "Servicio de Instalación, puesta en marcha y configuración de 2 camaras autosustentables con su respecitva infraestructura. (Incluye los dados para soporte de postes, obra civil, armado e isntalación del oste, montaje de camaras y configuración con la analitica de movimiento solicitada).",
+        "caracteristicas": [
+            "nan"
+        ]
+    }
+}

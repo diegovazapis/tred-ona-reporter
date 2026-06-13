@@ -1,0 +1,47 @@
+config:
+  column_cliente: group_df8hg33/Nombre_del_cliente
+  column_proyecto: group_info/proyecto
+  column_sitio: group_df8hg33/Nombre_del_sitio
+fields:
+  group_gps/_gps_latitude: latitud
+  group_gps/_gps_longitude: longitud
+  group_info/modelo: modelo_equipo
+  group_info/tipo_equipo: tipo_equipo
+  group_op0iq57/foto: foto_nodo
+  meta/instanceID: instance_id
+forms:
+  852559:
+    column_cliente: group_df8hg33/Nombre_del_cliente
+    column_proyecto: group_info/proyecto
+    column_sitio: group_df8hg33/Nombre_del_sitio
+  859541:
+    column_cliente: group_br6kf28/Cliente
+    column_proyecto: group_br6kf28/_Qu_trabajo_est_s_reportando
+    column_sitio: group_br6kf28/Escribe_el_nombre_del_sitio
+report_types:
+  bitacora_obra:
+    blocks: []
+    default_form_id: 859541
+    description: Reporte de avance y hallazgos.
+    label: Bitácora de Obra
+    template_base: header.docx
+  memoria_tecnica:
+    blocks:
+    - template: camara.docx
+      value: Cámara
+      variable: tipo_equipo
+    - template: ups.docx
+      value: UPS
+      variable: tipo_equipo
+    description: Documento detallado de ingeniería con evidencia fotográfica.
+    label: Memoria Técnica
+    template_base: header.docx
+  propuesta_tecnica:
+    blocks:
+    - template: camara.docx
+      value: Cámara
+      variable: tipo_equipo
+    default_form_id: 852559
+    description: Oferta preliminar de solución.
+    label: Propuesta Técnica
+    template_base: propuesta.docx

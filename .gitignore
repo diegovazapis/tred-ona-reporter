@@ -1,0 +1,17 @@
+# Archivos de configuración local (¡No subir a GitHub!)
+config.json
+config.yaml
+local_db.sqlite
+
+# Cache y entornos virtuales
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+
+# Carpetas de resultados
+outputs/
+*.pdf
+*.zip
